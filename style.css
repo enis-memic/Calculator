@@ -15,7 +15,7 @@ body {
   height: 500px;
   box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
   border-radius: 12px;
-  background-color: #3b445e;
+  background-color: #58658b;
   overflow: hidden;
 }
 
@@ -53,7 +53,7 @@ button {
 }
 
 .btn-yellow {
-  background: rgb(245, 146, 62);
+  background: rgb(253, 164, 86);
   color: #fff;
 }
 .btn-grey {
